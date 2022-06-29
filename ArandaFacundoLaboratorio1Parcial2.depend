@@ -1,0 +1,74 @@
+# depslib dependency file v1.0
+1656511240 source:e:\documentos\facultad\fra\programacion 1\codigosconbauss\arandafacundolaboratorio1parcial2\controller.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"movies.h"
+	"parser.h"
+	"funcionesExtra.h"
+	"validaciones.h"
+	"Controller.h"
+
+1656451902 e:\documentos\facultad\fra\programacion 1\codigosconbauss\arandafacundolaboratorio1parcial2\linkedlist.h
+
+1656510128 e:\documentos\facultad\fra\programacion 1\codigosconbauss\arandafacundolaboratorio1parcial2\movies.h
+
+1656446033 e:\documentos\facultad\fra\programacion 1\codigosconbauss\arandafacundolaboratorio1parcial2\parser.h
+
+1656510128 e:\documentos\facultad\fra\programacion 1\codigosconbauss\arandafacundolaboratorio1parcial2\funcionesextra.h
+	"movies.h"
+	"LinkedList.h"
+
+1655413109 e:\documentos\facultad\fra\programacion 1\codigosconbauss\arandafacundolaboratorio1parcial2\validaciones.h
+
+1656511906 e:\documentos\facultad\fra\programacion 1\codigosconbauss\arandafacundolaboratorio1parcial2\controller.h
+
+1656456969 source:e:\documentos\facultad\fra\programacion 1\codigosconbauss\arandafacundolaboratorio1parcial2\funcionesextra.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"funcionesExtra.h"
+	"validaciones.h"
+	"movies.h"
+
+1656510128 source:e:\documentos\facultad\fra\programacion 1\codigosconbauss\arandafacundolaboratorio1parcial2\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1656511240 source:e:\documentos\facultad\fra\programacion 1\codigosconbauss\arandafacundolaboratorio1parcial2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"LinkedList.h"
+	"Controller.h"
+	"movies.h"
+	"funcionesExtra.h"
+	"validaciones.h"
+
+1656460635 source:e:\documentos\facultad\fra\programacion 1\codigosconbauss\arandafacundolaboratorio1parcial2\movies.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<time.h>
+	"movies.h"
+	"funcionesExtra.h"
+
+1656449120 source:e:\documentos\facultad\fra\programacion 1\codigosconbauss\arandafacundolaboratorio1parcial2\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"movies.h"
+	"parser.h"
+
+1655239865 source:e:\documentos\facultad\fra\programacion 1\codigosconbauss\arandafacundolaboratorio1parcial2\validaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"validaciones.h"
+
